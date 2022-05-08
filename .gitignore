@@ -6,8 +6,6 @@
 /pip-wheel-metadata/
 /dist/
 /docs/api/
-/src/fava/static/*
-!/src/fava/static/favicon.ico
 /src/fava/translations/messages.pot
 /src/fava.egg-info
 /htmlcov
